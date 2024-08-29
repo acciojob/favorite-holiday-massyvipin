@@ -2,7 +2,7 @@
   text-align:center;
   width: 100vw;
   height: 50px;
-  padding;30px;
+  padding:10px;
   background-color: grey;
   color:white;
 }
@@ -23,9 +23,9 @@
   align-items: center;
 }
 .mustTry1 {
-  font-style:bold;
+  font-weight:bold;
 }
 .mustTry2 {
-  font-style:italic;
+  font-weight:italic;
 }
 
